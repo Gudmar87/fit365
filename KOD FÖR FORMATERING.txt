@@ -1,0 +1,3 @@
+Formatera till HTML. Alla tränings övningar ska vara länkar. Alla A), B), C), D), E), F) osv ska vara i <h4> och <strong> bakgrundsfärg är black och text färg är white. Rubriker ska vara <H4>. Raden med "rest" ska vara i <h5>. Note from Coach raden ska vara <h4> och med bakgrund i färg #5f9ea0. 
+
+

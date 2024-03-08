@@ -1,0 +1,19 @@
+<div class="contact-info"><img src="profile.jpg" alt="Profile Picture"> 
+
+/* Gör att alla länkar på hemsidan öppnas i ett nytt fönster */
+var links = document.getElementsByTagName('a');
+   for (var i = 0; i < links.length; i++) {
+    links[i].setAttribute('target', '_blank');
+}
+
+<a id="open-popup">Mail</a> 
+                    <div id="popup" class="popup"> 
+                        <div class="popup-content"> <span class="close">&times;</span> 
+                            <div id="contact">CONTACT ME</div> 
+                            <input type="email" placeholder="Enter your email"> 
+                            <br>
+                            <input type="text" placeholder="Enter your message">
+                            <br>
+                            <button type="submit">Send</button> 
+                        </div> 
+                    </div> 

@@ -1,0 +1,83 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: normal;
+    background-color: black;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.3);
+    max-width: 440px;
+    margin: 0 auto;
+    margin-top: -10px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+header {
+    background-color: #5f9ea0;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.3);
+    max-width: 440px;
+    margin: 0 auto;
+}
+
+body {
+    text-align: center;
+    background-color: lightgray;
+}
+
+#kaffe {
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.3);
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+.text-box {
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    padding: 10px;
+    overflow: scroll;
+}
+
+#date {
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    box-shadow: 7px 7px 12px rgba(0,0,0,0.3);
+    max-width: 210px;
+    margin: 0 auto;
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    letter-spacing: 2px;
+}
+
+#text {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: white;
+    color: black;
+    text-shadow: 2px;
+    box-shadow: 7px 7px 12px rgba(0,0,0,0.3);
+    max-width: 440px;
+    margin: 0 auto;
+}
+
+#bidrag {
+    box-shadow: 7px 7px 12px rgba(0,0,0,0.3);
+    border: solid white;
+
+}
+
+#submit {
+    box-shadow: 7px 7px 12px rgba(0,0,0,0.3);
+    border: solid white;
+    background-color: white;
+
+}

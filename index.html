@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>365days</title>
+        <link rel="stylesheet" href="style.css" >
+    </head>
+        <body>
+            <header class="card">
+                365 days of workouts
+            </header>
+
+            <main>
+                <!-- Här ska dagens datum synas -->
+                <p id="date"></p>
+                <script> var today = new Date(); var dayOfWeek = today.toLocaleString('default', { weekday: 'long' }); var day = today.getDate(); var month = today.getMonth() + 1; var year = today.getFullYear(); var fullDate = dayOfWeek + ', ' + day + '/' + month + '/' + year; document.getElementById('date').innerHTML = fullDate; 
+                </script>
+
+                <br>
+
+                <!-- Här ska träningspasset visas -->
+                <h1>Today's workout</h1>
+                <div id="text"></div>
+
+            <br>                
+                
+                <!-- Här ska ett alternativ att bjuda på en kaffe finnas -->
+            <div>
+                <label id="kaffe">Om ni uppskattar mitt arbete får ni gärna bjuda mig på en kaffe!</label>
+                <br>
+                <br>
+                <!-- Lägg in så att man endast kan välja i Euro -->
+                <img src="coffee.gif">
+                <br>
+                <span class="euro-symbol">€</span>
+                <input form="bidrag" id="bidrag" name="kaffe" value="2€" type="number" min="1">
+                <input form="bidrag" id="submit" type="submit" name="kaffe" value="Gift">
+            </div>    
+            </main>
+            
+            <br>
+            <br>
+
+            <footer>
+                <!-- Här ska kontakt finnas-->  
+                <a id="open-popup">Mail</a> 
+        <div id="popup" class="popup"> 
+        <div class="popup-content"> 
+        <span class="close">&times;</span> 
+        <div id="contact">CONTACT ME</div> 
+            <input type="email" id="email" placeholder="fit365@fastmail.com" value="Enter your email" style="color: gray;"> 
+        <br>
+            <input type="text" id="message" placeholder="Enter your message" style="color: gray;>
+        <br>
+            <button type="submit" onclick="sendMail()">Send</button> 
+        </div> 
+        </div>
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script src="script.js"></script>
+                        
+            </footer>
+        </Body>
+    
+</html>
