@@ -1,0 +1,22 @@
+<div style="text-align: start;color: rgb(0, 0, 0);"><strong>Rest day</strong></div>
+<div style="text-align: start;color: rgb(0, 0, 0);"><br></div>
+<div style="text-align: start;color: rgb(0, 0, 0);">or</div>
+<div style="text-align: start;color: rgb(0, 0, 0);"><br></div>
+<div style="text-align: start;color: rgb(0, 0, 0);">Endurance cardio workout.</div>
+<hr style="text-align: start;color: rgb(0, 0, 0);">
+<div style="text-align: start;color: rgb(0, 0, 0);"><br></div>
+<div style="text-align: start;color: rgb(0, 0, 0);"><strong>A</strong>) Endurance Workout.</div>
+<div style="text-align: start;color: rgb(0, 0, 0);"><br></div>
+<div style="text-align: start;color: rgb(0, 0, 0);">30 Minutes <a title="Air Runner" href="https://www.youtube.com/watch?v=_Iya1mAeFM0">Air Runner</a></div>
+<div style="text-align: start;color: rgb(0, 0, 0);"><br></div>
+<div style="text-align: start;color: rgb(0, 0, 0);">Coach says:</div>
+<ul style="text-align: start;color: rgb(0, 0, 0);">
+    <li>
+        <p>A endurance session. Plug in a good podcast and start burning calories!</p>
+        <ul>
+            <li>
+                <p>Strain level should be around a 7/10 effort.</p>
+            </li>
+        </ul>
+    </li>
+</ul>
